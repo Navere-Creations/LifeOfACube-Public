@@ -1,1 +1,1 @@
-# LifeOfACube
+# Life of a Cube
